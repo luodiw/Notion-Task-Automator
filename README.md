@@ -6,11 +6,9 @@ Create a task while you're building a project without opening Notion or during a
 
 Just click, type or speak and tasks will appear for you in a simple command line.
 
+https://user-images.githubusercontent.com/81426655/182959841-12607243-c1c6-42b8-8dae-873579efd6a1.MOV
+
 ![Image](/assets/screenshot.png)
-
-https://user-images.githubusercontent.com/81426655/182959538-eecd8804-a4d9-4306-b49a-1b9a9e447f13.MOV
-
-
 
 ## Configuration
 1. Create a new notion integration and copy token value
