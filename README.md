@@ -11,13 +11,13 @@ Just click, type or speak and tasks will appear for you in a simple command line
 ## Configuration
 1. Create a new notion integration and copy token value
 2. Duplicate the below notion page and copy the database ID
-> https://luodiwang/notion.site/4db66931896240198d9781850b8bf6d5 v=9bf05bb87eba4a8a97726af1f99770d7
+> https://luodiwang/notion.site/4db66931896240198d9781850b8bf6d5 
 3. Copy config.py.sample to a new file config.py and replace the placeholders with your own interation token and database id
 4. Install all requirements
 ```bash
    $ pip install -r requirements.txt
 ```
-5. Finally run Slate 🎉
+5. Finally run it 🎉
 
 ## Commands
 
