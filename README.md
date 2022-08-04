@@ -58,3 +58,4 @@ To open this help
 ```bash
    $ python slate.py help
 ```
+<div align="center">Made with ❤️ by Luodi Wang</div>
