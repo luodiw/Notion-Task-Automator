@@ -8,6 +8,10 @@ Just click, type or speak and tasks will appear for you in a simple command line
 
 ![Image](/assets/screenshot.png)
 
+https://user-images.githubusercontent.com/81426655/182959538-eecd8804-a4d9-4306-b49a-1b9a9e447f13.MOV
+
+
+
 ## Configuration
 1. Create a new notion integration and copy token value
 2. Duplicate the below notion page and copy the database ID
