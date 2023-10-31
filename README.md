@@ -26,36 +26,36 @@ https://user-images.githubusercontent.com/81426655/182959841-12607243-c1c6-42b8-
 Run without arguements to use voice commands 
 
 ```bash
-  $ python notion.py
+  $ python slate.py
 ```
 
 To add a new task to your notion database
 
 ```bash
-   $ python notion.py add [TASK]
+   $ python slate.py add [TASK]
 ```
 
 To remove an existing task from your notion database
 
 ```bash
-  $ python notion.py remove [TASK_NUM]
+  $ python slate.py remove [TASK_NUM]
 ```
 
 To uncheck an existing task in your notion database
 
 ```bash
-  $ python notion.py uncheck [TASK_NUM]
+  $ python slate.py uncheck [TASK_NUM]
 ```
 
 To list all existing unchecked tasks in your notion database
 
 ```bash
-  $ python notion.py list
+  $ python slate.py list
 ```
 
 To open this help
 
 ```bash
-   $ python notion.py help
+   $ python slate.py help
 ```
 <div align="center">Made with ❤️ by Luodi Wang</div>
